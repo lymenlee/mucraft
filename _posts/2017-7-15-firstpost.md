@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 layout: post
 title:  "First post!"
 date:   2017-07-15 22:59:55 -0400
