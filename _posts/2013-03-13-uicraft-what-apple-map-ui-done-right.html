@@ -1,0 +1,78 @@
+---
+layout: post
+title: 'UICraft: What Apple Map UI Done Right'
+date: 2013-03-13 16:39:19.000000000 -04:00
+type: post
+published: true
+status: publish
+categories:
+- Anything Apple
+- Design
+- iOS
+- UICraft
+tags:
+- Apple
+- Google
+- Google Maps
+meta:
+  _edit_last: '3022832'
+  _publicize_pending: '1'
+  _zemanta_has_recommendations: '1'
+  _wpas_done_2727310: '1'
+  publicize_twitter_user: lymenlee
+  _wpas_done_2586874: '1'
+  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:26975255;b:1;}}
+  _wpas_done_2727326: '1'
+author:
+  login: mountainwalker
+  email: lemuel.li@gmail.com
+  display_name: MountainWalker
+  first_name: ''
+  last_name: ''
+---
+<p>A lot of people hate Apple Map. Bad directions, corrupted map data, police warnings, you name it. Yet most of the criticizes are pointing toward the back-end map data, not to the map user interface and user experience. Actually, no one seems to have talked about it. After a closer look, I found that Apple Map UI did one thing or two right:</p>
+<h2>1. Less clutter</h2>
+<p>The overall Apple Map layout is designed to avoid ‘cognitive overload’ as much as possible. Road names only get displayed when it helps the navigation, instead of throw all the names across the map.</p>
+<p><strong>Apple Map:</strong></p>
+<p style="text-align:center;"><a href="http://linwangge.files.wordpress.com/2013/03/photo-mar-12-9-16-45-am.png"><img class="aligncenter  wp-image-1754" alt="Photo-Mar-12-9-16-45-AM.png" src="{{ site.baseurl }}/assets/photo-mar-12-9-16-45-am.png?w=315" width="252" height="448" /></a></p>
+<p>‘I-75’ is displayed because that’s the road on which the car was currently driving. ‘Akers Rd’ is displayed because it offers a reference point of where the car is at the moment.</p>
+<p>There is no clutter here. The user can know where they are at a glance (Driving on I-75 near ‘Akers Rd’'.) . Minimum ‘eye-off-the-road’ time. Good for safety.</p>
+<p><strong>Waze and Google Maps:</strong></p>
+<p style="text-align:center;"><a href="http://linwangge.files.wordpress.com/2013/03/google_maps_nav1.png"><img class="aligncenter  wp-image-1758" alt="Google_maps_nav1.png" src="{{ site.baseurl }}/assets/google_maps_nav1.png?w=315" width="284" height="504" /></a></p>
+<p style="text-align:center;">Google Map</p>
+<p style="text-align:center;">
+<img class="aligncenter size-full wp-image-1756" alt="waze-map-navigation.jpg" src="{{ site.baseurl }}/assets/waze-map-navigation.jpg" width="280" height="420" /><br />
+Waze Navigation App</p>
+<p>Road names are everywhere and random.  The user needs good eyesight and extra time to figure out which road he is driving on and where exactly he is on that road. More ‘eye-off-the-road’ time. Bad for safety.</p>
+<h2>2. Clear information hierarchy with relevant information</h2>
+<p>The single most important part of a map navigation UI is the ‘Navigation Panel’ where all the navigation information is displayed. The most critical navigation questions we ask ourselves are:</p>
+<ul>
+<li><strong>‘What should I do on the next Turn?’</strong> (Left, right, exit highway, etc.)</li>
+<li><strong>‘How far till I have to turn?’</strong> (A number in miles or feet.)</li>
+<li><strong>‘Which sign should I look at?’</strong> (The road or exit sign.)</li>
+</ul>
+<p><strong>Apple Map:</strong></p>
+<p style="text-align:center;"><img class="aligncenter" style="background-image:none;margin-top:7px;margin-bottom:5px;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="navigating-panel-1" alt="navigating-panel-1" src="{{ site.baseurl }}/assets/navigating-panel-1_thumb.png" width="358" height="226" border="0" /></p>
+<p>As we can see from above screenshot, the information is very clearly spelled out. User is able to get direction within 2-3 seconds.</p>
+<p><strong>Google Map:</strong></p>
+<p style="text-align:center;"><a href="http://linwangge.files.wordpress.com/2013/03/nav-panel-google.jpg"><img class="aligncenter" style="background-image:none;margin-top:7px;margin-bottom:5px;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="nav panel google" alt="nav panel google" src="{{ site.baseurl }}/assets/nav-panel-google_thumb.jpg" width="403" height="111" border="0" /></a></p>
+<p>All the information is on there, but they are all with same visual weight. User will have to read through the entire sentence to get what they need. They can’t skim, thus more time-consuming (5+ seconds).</p>
+<h2>3. Subtle color coding is intuitive</h2>
+<p><strong>Apple Map:</strong></p>
+<p style="text-align:center;"><a href="http://linwangge.files.wordpress.com/2013/03/photo-mar-12-9-19-17-am.png"><img class="aligncenter" style="background-image:none;margin-top:7px;margin-bottom:5px;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="Photo Mar 12, 9 19 17 AM" alt="Photo Mar 12, 9 19 17 AM" src="{{ site.baseurl }}/assets/photo-mar-12-9-19-17-am_thumb.png" width="258" height="455" border="0" /></a></p>
+<p><span style="color:#4bacc6;"><strong>Light Blue:  <span style="color:#666666;">Current route, Car Indicator (round badge), Next Turning Point</span></strong></span></p>
+<p><span style="color:#9bbb59;"><strong>Green:</strong></span> Other reference road names.</p>
+<p>Very easy to filter useful information. Blue = useful. Green: reference only.</p>
+<p><strong>Google and Waze Map:</strong></p>
+<p style="text-align:center;"><a href="http://linwangge.files.wordpress.com/2013/03/waze-map-navigation1.jpg"><img class="aligncenter" style="background-image:none;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="waze map navigation" alt="waze map navigation" src="{{ site.baseurl }}/assets/waze-map-navigation_thumb1.jpg" width="164" height="244" border="0" /></a><a href="http://linwangge.files.wordpress.com/2013/03/google_maps_nav11.png"><img style="background-image:none;margin:7px 0 5px;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="Google_maps_nav1" alt="Google_maps_nav1" src="{{ site.baseurl }}/assets/google_maps_nav1_thumb1.png" width="139" height="241" border="0" /></a></p>
+<p>No color coding on road or road names at all.</p>
+<h2>4. Lock-Screen peace of mind</h2>
+<p>Another thoughtful thing about Apple Map design is how navigation works with handset’s lock screen. When using the smartphone as GPS, battery life is always a concern. (You can't expect people to always has a car charger around). When driving straight on a highway with the next turn is 100 miles away, there is no reason to keep the smartphone screen on all the time. But locking the screen risks missing the important exit (yes there’s always voice prompt, but we are driving at 70mph after all).</p>
+<p style="text-align:center;"><a href="http://linwangge.files.wordpress.com/2013/03/photo-mar-12-9-18-50-am.png"><img class="aligncenter" style="background-image:none;margin-top:7px;margin-bottom:5px;padding-left:0;padding-right:0;display:inline;padding-top:0;border:0;" title="Photo Mar 12, 9 18 50 AM" alt="Photo Mar 12, 9 18 50 AM" src="{{ site.baseurl }}/assets/photo-mar-12-9-18-50-am_thumb.png" width="213" height="376" border="0" /></a></p>
+<p>How Apple Map solves this problem is quite smart. When navigation is on, if you lock your iPhone, the navigation screen will get on the lock screen. So if you want to check how far you’re to the next exit, just push Home or Power key to turn the screen on, don’t even need to unlock the screen. Better yet, when you’re approaching the next turn, the lock screen will automatically lit up until you successfully make the next turn.</p>
+<h2>Summary:</h2>
+<p>Adding all these together, I found Apple Map still holds its high standard when it comes to user interface and user experience design. The map data may be screwed up, but the design is still killer.</p>
+<h6 class="zemanta-related-title" style="font-size:1em;">Related articles</h6>
+<ul class="zemanta-article-ul">
+<li class="zemanta-article-ul-li"><a href="http://www.iClarified.com/28052/apple-maps-beats-google-maps-and-waze-in-navigation-test" target="_blank">Apple Maps Beats Google Maps and Waze in Navigation Test</a> (iClarified.com)</li>
+</ul>
