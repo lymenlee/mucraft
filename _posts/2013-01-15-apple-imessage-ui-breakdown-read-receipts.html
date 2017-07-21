@@ -1,0 +1,59 @@
+---
+layout: post
+title: 'Apple iMessage UI Breakdown: Read Receipts'
+date: 2013-01-15 15:22:12.000000000 -05:00
+type: post
+published: true
+status: publish
+categories:
+- Anything Apple
+- Design
+- iOS
+- Mac
+- UI/UX
+tags:
+- Apple
+- Design Thinking
+- iMessage
+- iPhone
+- Mobile OS
+- Read Recipient
+- Text messaging
+- UI
+- User Experience
+- User interface
+- UX
+meta:
+  _edit_last: '3022832'
+  tagazine-media: a:7:{s:7:"primary";s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-03.jpg";s:6:"images";a:3:{s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-02.jpg";a:6:{s:8:"file_url";s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-02.jpg";s:5:"width";i:320;s:6:"height";i:480;s:4:"type";s:5:"image";s:4:"area";i:153600;s:9:"file_path";b:0;}s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-03.jpg";a:6:{s:8:"file_url";s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-03.jpg";s:5:"width";i:320;s:6:"height";i:480;s:4:"type";s:5:"image";s:4:"area";i:153600;s:9:"file_path";b:0;}s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-01.jpg";a:6:{s:8:"file_url";s:60:"http://linwangge.files.wordpress.com/2013/01/imessage-01.jpg";s:5:"width";i:320;s:6:"height";i:480;s:4:"type";s:5:"image";s:4:"area";i:153600;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:3;s:6:"author";s:7:"3022832";s:7:"blog_id";s:7:"2953765";s:9:"mod_stamp";s:19:"2013-01-15
+    21:56:05";}
+  publicize_twitter_user: lymenlee
+  _wpas_done_2586874: '1'
+  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:26975255;b:1;}}
+  _wpas_skip_2586874: '1'
+author:
+  login: mountainwalker
+  email: lemuel.li@gmail.com
+  display_name: MountainWalker
+  first_name: ''
+  last_name: ''
+---
+<p>Finally got time to write something that I hold dear and near to: User Interface!</p>
+<p>Today I just want to start with a very 'minor' feature in IOS's iMessage UI, the 'Read Receipts'.</p>
+<p>The 'Read Receipts' feature lets you tell the people who send message to you whether you've read the message or not.</p>
+<p><img class="aligncenter size-medium wp-image-132" alt="imessage 02" src="{{ site.baseurl }}/assets/imessage-02.jpg?w=200" width="200" height="300" /></p>
+<p>If you set it to 'Off', your friend will see this:</p>
+<p><a href="http://linwangge.files.wordpress.com/2013/01/imessage-03.jpg"><img class="aligncenter size-medium wp-image-133" alt="imessage 03" src="{{ site.baseurl }}/assets/imessage-03.jpg?w=200" width="200" height="300" /></a></p>
+<p>Notice that under the text message 'Test', there's a small gray word 'Delivered'. This means your friend will know the message got delivered to you, yet not sure whether you've read it or not.</p>
+<p>If you set it to 'On', your friend will have more information now:</p>
+<p><a href="http://linwangge.files.wordpress.com/2013/01/imessage-01.jpg"><img class="aligncenter size-medium wp-image-131" alt="imessage 01" src="{{ site.baseurl }}/assets/imessage-01.jpg?w=200" width="200" height="300" /></a></p>
+<p>Now notice that the gray small word is now 'Read', means the message not only get delivered, it also get read by you.</p>
+<p>So what's user experience design thoughts have been put into this simple little feature? Let's have a closer look.</p>
+<p><strong>1. Give power user the freedom of control, but keep it simple for normal users.</strong></p>
+<p>This 'Send Read Receipts' setting is by default turned off, which means most user won't even aware of its existence. Most user don't want to think too much of all the 'fine tweaks' they can do on their mobile phone. They want to just pick it up and start using it. This setting design does exactly that. A lot of my friends using an iPhone don't even know they can do this, and they've been using iMessage for a long time without any problem. For the power user, they can choose to turn the feature on, and they fully understand the meaning of it. (Not being able to use 'I didn't get your message' as an excuse maybe?)</p>
+<p>If it's designed the other way around. Then normal user will start to complain 'Why others can know whether I read their message? When did I allow that to happen? And where can I turn it off?' This is bad experience because it makes user start to think, start to ask questions, and likely won't get answer easily.</p>
+<p><strong>2. Display the information in a non-intrusive, out-of-the-way style. </strong></p>
+<p>As can be seen from the above figures, the 'Read' word are gray and small. User can easily choose to ignore them if they only want to read the conversation text. Yet for user that want to know whether their message has been sent or read, the information is there. The visual hierarchy here is well designed.</p>
+<p><strong>3. Only display on the newest message to reduce screen clutter. </strong></p>
+<p>Another subtle thing I noticed (but not shown in the above figures) is that only the newest message will have a 'Read Recipient' displayed underneath it. Come to think of it, it actually make a lot of sense. Older messages are either replied to or become irrelevant for user to know its delivery/read status. My friend has already replied all my messages I sent to him yesterday, so they definitely got and read all of those messages. The only message I want to know whether it's delivered or read is the message I just sent. Designing this way instead of display 'Read Recipient' on each message has its pros and cons. The good thing is only the most relevant information is displayed, and much less screen clutter. The drawback is that user won't have a message by message status information (which most of the users don't care anyway). So I believe Apple make a deliberate decision (Remember design is all about making deliberate decisions for the user) to choose good experience for the 90 percent of the user, rather than sought thoroughness for the rest 10%.</p>
+<p>So as we can see from the analysis above, even designing for a small feature like 'Read Recipients', there are a lot of design thinking behind it, and being aware of all the pros and cons of the different solutions and making the correct (yet tough) decision for the user is the key to great user experience.</p>
