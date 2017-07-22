@@ -1,21 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-23 01:34:39+00:00
+date: 2013-02-23T01:34:39.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/22/googles-chromebook-pixel-the-missing-piece/
+link: >-
+  https://linwangge.wordpress.com/2013/02/22/googles-chromebook-pixel-the-missing-piece/
 slug: googles-chromebook-pixel-the-missing-piece
 title: 'Google''s Chromebook Pixel: The Missing Piece'
 wordpress_id: 1147
 categories:
-- Design
-- Tech Trends
+  - Design
+  - Tech Trends
 tags:
-- Chromebook
-- Google
-- Google Chrome OS
-- Hardware
-- Pixel
+  - Chromebook
+published: true
 ---
 
 [![Pixel](http://linwangge.files.wordpress.com/2013/02/pixel.jpg?w=300)](http://linwangge.files.wordpress.com/2013/02/pixel.jpg)
@@ -49,5 +47,3 @@ In our industry, it's always the service/software drive the hardware, not the ot
 
 	
   * [Google's Chromebook Pixel: An even worse idea than Windows 8](http://blogs.computerworld.com/windows/21816/googles-chromebook-pixel-even-worse-idea-windows-8) (blogs.computerworld.com)
-
-
