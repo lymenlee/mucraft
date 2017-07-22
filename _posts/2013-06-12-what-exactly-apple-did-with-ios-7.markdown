@@ -1,25 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-06-12 16:44:41+00:00
+date: 2013-06-12T16:44:41.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/06/12/what-exactly-apple-did-with-ios-7/
+link: 'https://linwangge.wordpress.com/2013/06/12/what-exactly-apple-did-with-ios-7/'
 slug: what-exactly-apple-did-with-ios-7
 title: What Exactly Apple Did with iOS 7?
 wordpress_id: 1916
 categories:
-- Anything Apple
-- Design
-- iOS
-- Tech Trends
-- UI/UX
+  - Anything Apple
+  - Design
+  - iOS
+  - Tech Trends
+  - UI/UX
 tags:
-- Apple
-- Industrial design
-- iPhone
-- Jonathan Ive
-- Siri
-- WWDC 2013
+  - Apple
+published: true
 ---
 
 [![icon-ios7](http://linwangge.files.wordpress.com/2013/06/icon-ios7.png)](http://linwangge.files.wordpress.com/2013/06/icon-ios7.png)
@@ -92,5 +88,3 @@ _"Technology should never get in the way of humanity"_
 This is a vague feeling of mine. I can't really put my finger to it. But the bold color, the subtle translucent layers, the smart UI that will hide themselves when I need to view my content, the smarter and more human-sounding Siri, etc. all give me a feeling that iOS 7 somehow come to life, has its own character, and evolved to be smarter and prettier. There's a slice of humanity in it, no matter how thin it is. Maybe it's just me day dreaming, or maybe this is also Apple's vision?
 
 BTW, the[ Apple official iOS 7 Design page](http://www.apple.com/ios/ios7/design/) is by itself a design lesson, I recommend going through[ it](http://www.apple.com/ios/ios7/design/). It's not just a sales pitch.
-
-
