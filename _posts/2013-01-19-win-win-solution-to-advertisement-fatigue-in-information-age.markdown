@@ -12,7 +12,7 @@ categories:
   - Social Networks
   - Tech Trends
 tags:
-  - Advertisement Fatigue
+  - Ad Fatigue
 published: true
 ---
 
