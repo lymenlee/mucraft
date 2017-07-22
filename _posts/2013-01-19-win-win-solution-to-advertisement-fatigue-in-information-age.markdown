@@ -1,24 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-19 22:17:21+00:00
+date: 2013-01-19T22:17:21.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/19/win-win-solution-to-advertisement-fatigue-in-information-age/
+link: >-
+  https://linwangge.wordpress.com/2013/01/19/win-win-solution-to-advertisement-fatigue-in-information-age/
 slug: win-win-solution-to-advertisement-fatigue-in-information-age
 title: Win-Win Solution to Advertisement Fatigue in Information Age
 wordpress_id: 543
 categories:
-- Social Networks
-- Tech Trends
+  - Social Networks
+  - Tech Trends
 tags:
-- Advertisement
-- Advertisement Fatigue
-- Facebook
-- instagram
-- Social media
-- Social network
-- Twitter
-- Zite
+  - Advertisement Fatigue
+published: true
 ---
 
 [![statins_fatigue](http://linwangge.files.wordpress.com/2013/01/statins_fatigue.jpg?w=300)](http://linwangge.files.wordpress.com/2013/01/statins_fatigue.jpg)
