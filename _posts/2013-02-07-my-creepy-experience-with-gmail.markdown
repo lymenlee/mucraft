@@ -1,25 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-07 17:00:59+00:00
+date: 2013-02-07T17:00:59.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/07/my-creepy-experience-with-gmail/
+link: 'https://linwangge.wordpress.com/2013/02/07/my-creepy-experience-with-gmail/'
 slug: my-creepy-experience-with-gmail
 title: My Creepy Experience with GMail
 wordpress_id: 930
 categories:
-- Customer Experience
-- Social Networks
-- Tech Trends
+  - Customer Experience
+  - Social Networks
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- ads
-- Gmail
-- Google
-- Microsoft
-- Privacy
-- Privacy Policy
+  - Gmail
+published: true
 ---
 
 [My Creepy Experience with GMail](http://techcrunch.com/2013/02/07/seriously-this-again-new-aggressive-marketing-from-microsoft-warns-gmail-users-that-google-reads-their-email/)
