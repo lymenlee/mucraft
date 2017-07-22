@@ -1,24 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-31 22:10:44+00:00
+date: 2013-01-31T22:10:44.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/31/less-is-more-netflix-gets-it/
+link: 'https://linwangge.wordpress.com/2013/01/31/less-is-more-netflix-gets-it/'
 slug: less-is-more-netflix-gets-it
 title: '''Less is More'': Netflix Gets It'
 wordpress_id: 694
 categories:
-- Social Networks
-- Tech Trends
+  - Social Networks
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- Apple
-- Apple TV
-- HR
-- Human resources
-- Netflix
-- Sheryl Sandberg
+  - Netflix
+published: true
 ---
 
 ['Less is More': Netflix Gets It](http://gigaom.com/2013/01/29/netflix-company-culture/)
@@ -61,5 +57,3 @@ Will Netflix become the next Apple? What do you think?
 	
   * [THE $2.2 TRILLION WAR FOR YOUR LIVING ROOM BEGINS _NOW_ ](http://www.fool.com/shop/newsletters/18/7b4c49d4-4c84-4f1a-ad4b-24bc9822ad5f.aspx?source=isaspodft0000229) (www.fool.com)[
 ](http://www.gq.com/entertainment/movies-and-tv/201302/netflix-founder-reed-hastings-house-of-cards-arrested-development#ixzz2JasZp2np)
-
-
