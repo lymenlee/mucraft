@@ -1,25 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-10 21:03:06+00:00
+date: 2013-01-10T21:03:06.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/10/apple-store-tips-i-learned-from-fixing-my-imac/
+link: >-
+  https://linwangge.wordpress.com/2013/01/10/apple-store-tips-i-learned-from-fixing-my-imac/
 slug: apple-store-tips-i-learned-from-fixing-my-imac
 title: Apple Store Tips I learned from fixing my iMac
 wordpress_id: 113
 categories:
-- Anything Apple
-- Customer Experience
-- Mac
+  - Anything Apple
+  - Customer Experience
+  - Mac
 tags:
-- Apple
-- Apple Store
-- Customer Support
-- Genius Bar
-- iMac
-- Macintosh
-- Super Drive
-- Tips
+  - Apple Store
+published: true
 ---
 
 [![my old imac](http://linwangge.files.wordpress.com/2013/01/my-old-imac.jpg)](http://linwangge.files.wordpress.com/2013/01/my-old-imac.jpg)
@@ -45,5 +40,3 @@ So I went back bare handed and start my life without my iMac, and kept telling m
 The last lesson is rather simple. I went to the store for pick up, after all the paperwork is done. Cause it's a rainy day, and it's a long way from the store to the parking lot, for a moment I was standing there thinking what is the best route that could avoid all the raining. One Apple store staff noticed it, and offered "Do you want us to help you load your machine to your car?', 'Hell yeah!'. So she told me I can drive my car to the nearest mall entrance and they'll deliver it to my car. I ran to my car and drove it to the entrance, 2 minutes later, they put my iMac on a little cart and load it to my car. _So for the heavy stuff, just ask them to help you load, they have the equipment to do it, and you can save some heavy lifting. _
 
 That's the end of my boring little story. There are reasons why Apple store are so successful. All the tending  to details gave them an edge and by connecting those dots they managed to offer a very pleasant experience of customer support.
-
-
