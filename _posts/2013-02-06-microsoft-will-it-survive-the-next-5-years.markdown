@@ -1,22 +1,18 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-06 22:21:20+00:00
+date: 2013-02-06T22:21:20.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/06/microsoft-will-it-survive-the-next-5-years/
+link: >-
+  https://linwangge.wordpress.com/2013/02/06/microsoft-will-it-survive-the-next-5-years/
 slug: microsoft-will-it-survive-the-next-5-years
 title: 'Microsoft: Will It Survive the Next 5 Years?'
 wordpress_id: 921
 categories:
-- Tech Trends
+  - Tech Trends
 tags:
-- Desktop computer
-- Google
-- Microsoft
-- Microsoft Office
-- Microsoft Windows
-- Mobile Device
-- Windows Phone
+  - Microsoft
+published: true
 ---
 
 [![steve-ballmer](http://linwangge.files.wordpress.com/2013/02/steve-ballmer.jpg)](http://linwangge.files.wordpress.com/2013/02/steve-ballmer.jpg)_Image: via [www.businessinsider.com](http://www.businessinsider.com/the-microsoft-investor-may-3-2011-5)_
