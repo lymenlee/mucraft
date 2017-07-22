@@ -1,27 +1,24 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-05 05:38:21+00:00
+date: 2013-02-05T05:38:21.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/04/skeuomorphism-vs-flat-design-ii-evolution/
+link: >-
+  https://linwangge.wordpress.com/2013/02/04/skeuomorphism-vs-flat-design-ii-evolution/
 slug: skeuomorphism-vs-flat-design-ii-evolution
 title: 'Skeuomorphism vs Flat Design II : Evolution'
 wordpress_id: 874
 categories:
-- Anything Apple
-- Customer Experience
-- Design
-- iOS
-- Mac
-- Tech Trends
-- UICraft
+  - Anything Apple
+  - Customer Experience
+  - Design
+  - iOS
+  - Mac
+  - Tech Trends
+  - UICraft
 tags:
-- Apple
-- Google
-- iPhone
-- Jonathan Ive
-- Skeuomorphism
-- User interface
+  - Skeuomorphism
+published: true
 ---
 
 Skeuomorphism as a design approach is under a lot of heat now. Mostly triggered by Apple's contribution to it in its iOS and OS X design, as well as some 'infamous' apps ('Contacts' for iPad for one) that get things wrong. People embraces the benefit of familiarity it brings to the design, but doesn't like it when it gets in the way or being fake. Some blame skeuomorphism for the [disparity between iOS hardware and software](http://www.macworld.com/article/2023604/apple-and-the-future-of-design.html), suggesting a total overhaul of iOS UI is necessary and cheered when [Jony Ive took the position of both UI and Industrial Design lead in Apple](http://www.dezeen.com/2012/10/30/apple/). Yet we still see Dribble's 'Popular' page flooded with tons of skeuomorphism works. Where are the future heading? To know better, we need to look back and find out where are we from.
@@ -149,5 +146,3 @@ This is a blessing to our designers. This is a curse to our designers.
 
 	
   * [Skeuomorphism vs. Flat Design: Some Inspirations](http://linwangge.wordpress.com/2013/01/22/skeuomorphism-vs-flat-design-some-inspirations/) (linwangge.wordpress.com)
-
-
