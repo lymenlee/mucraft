@@ -1,21 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-01 03:04:04+00:00
+date: 2013-03-01T03:04:04.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/28/e-ink-smartphone-could-work/
+link: 'https://linwangge.wordpress.com/2013/02/28/e-ink-smartphone-could-work/'
 slug: e-ink-smartphone-could-work
 title: E-Ink Smartphone Could Work
 wordpress_id: 1308
 categories:
-- Design
-- Tech Trends
+  - Design
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- Android
-- E-Ink
-- Smartphone
+  - E-Ink
+published: true
 ---
 
 [![fndroid02](http://linwangge.files.wordpress.com/2013/02/fndroid02.jpg)](http://linwangge.files.wordpress.com/2013/02/fndroid02.jpg)
