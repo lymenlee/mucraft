@@ -1,26 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-19 16:58:31+00:00
+date: 2013-03-19T16:58:31.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/19/html-5-development-cost-greater-than-native/
+link: >-
+  https://linwangge.wordpress.com/2013/03/19/html-5-development-cost-greater-than-native/
 slug: html-5-development-cost-greater-than-native
 title: HTML 5 Development Cost Greater Than Native?
 wordpress_id: 1792
 categories:
-- Design
-- iOS
-- Tech Trends
-- UI/UX
+  - Design
+  - iOS
+  - Tech Trends
+  - UI/UX
 tags:
-- Android
-- Cross-platform
-- HTML
-- HTML5
-- native app
-- web app
-- Web application
-- Xero
+  - HTML5
+published: true
 ---
 
 In the article from The Next Web: [Accounting software startup Xero ditches HTML5 in favor of native iOS and Android apps](http://thenextweb.com/dd/2013/03/18/accounting-software-startup-xero-ditches-html5-in-favor-of-native-ios-and-android-apps/)
@@ -42,5 +37,3 @@ I guess this is due to immature of the ecosystem. By immature, it's not just the
 
 	
   * [Native apps vs HTML 5: no consensus over how to choose](http://www.itwriting.com/blog/7249-native-apps-vs-html-5-no-consensus-over-how-to-choose.html) (itwriting.com)
-
-
