@@ -7,11 +7,11 @@ date: '2017-07-21 22:59:55 -0400'
 categories: General
 ---
 
-Finally got everything setup. 
-Google Analytics. Check. 
-Disqus. Check. 
-Customize Theme. Check. 
-URL to my own domain name. Check.
-
-Next step: Fix WordPress posts.
+Finally got everything setup. <br>
+Google Analytics. Check.  <br>
+Disqus. Check.  <br>
+Customize Theme. Check.  <br>
+URL to my own domain name. Check. <br>
+ <br>
+Next step: Fix WordPress posts. <br>
 
