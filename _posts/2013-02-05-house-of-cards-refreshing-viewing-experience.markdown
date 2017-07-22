@@ -1,21 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-05 16:56:42+00:00
+date: 2013-02-05T16:56:42.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/05/house-of-cards-refreshing-viewing-experience/
+link: >-
+  https://linwangge.wordpress.com/2013/02/05/house-of-cards-refreshing-viewing-experience/
 slug: house-of-cards-refreshing-viewing-experience
 title: '''House of Cards'' : Refreshing Viewing Experience'
 wordpress_id: 893
 categories:
-- Customer Experience
-- Social Networks
-- Tech Trends
+  - Customer Experience
+  - Social Networks
+  - Tech Trends
 tags:
-- HBO
-- House of Card
-- Netflix
-- Twitter
+  - House of Card
+published: true
 ---
 
 [![HOC quote](http://linwangge.files.wordpress.com/2013/02/hoc-quote.jpg?w=560)](http://linwangge.files.wordpress.com/2013/02/hoc-quote.jpg)
@@ -40,6 +39,4 @@ So since everyone is talking about '[House of Cards](http://www.imdb.com/title/t
   * Modern day references you can relate to make it feel real. Kevin's playing XBOX games, Zoe's blogging practice get mocked by her journalist colleagues, iPhone text messaging back and forth displayed on-screen as an overlay, Twitter references ('In today's life, when you're talking to one guy, you're talking to thousands' - Zoe), and don't even mention all the 'blatant' Apple devices in every scene. (Can't say whether it's products placement though since Apple never do placement)
 
 	
-  * To be continued. 
-
-
+  * To be continued.
