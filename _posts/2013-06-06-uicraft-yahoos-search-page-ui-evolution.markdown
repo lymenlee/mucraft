@@ -1,18 +1,16 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-06-06 19:33:11+00:00
+date: 2013-06-06T19:33:11.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/06/06/uicraft-yahoos-search-page-ui-evolution/
+link: >-
+  https://linwangge.wordpress.com/2013/06/06/uicraft-yahoos-search-page-ui-evolution/
 slug: uicraft-yahoos-search-page-ui-evolution
 title: 'UICraft: Yahoo''s Search Page UI Evolution'
 wordpress_id: 1907
 tags:
-- Design
-- search
-- UI
-- Yahoo
-- Yahoo Search
+  - Yahoo Search
+published: true
 ---
 
 For people who take note, Yahoo! has been undergone many changes on their culture, products and more subtle things. Like the recent updated search page UI, which is claimed by Yahoo! to "puts your results front and center." If you are a designer like me, these words will appear in your mind when you think of Yahoo!'s past search page design: 'obsoleted, busy and full of clutter'. That's why people have some love to themselves usually don't want to visit Yahoo!, it makes their eyes 'bleeding'. It makes mine do at least. But, the recent changes on the search page UI did breathe some fresh air into it. Let's have a closer look:
@@ -73,5 +71,3 @@ These changes aren't rocket science, but it shows that Yahoo! starts to care abo
 
 	
   * [Yahoo! Search Gets a Refresh](http://www.ysearchblog.com/2013/06/05/yahoo-search-gets-a-refresh/) (ysearchblog.com)
-
-
