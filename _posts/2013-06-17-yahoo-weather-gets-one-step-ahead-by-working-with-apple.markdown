@@ -1,26 +1,23 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-06-17 20:38:59+00:00
+date: 2013-06-17T20:38:59.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/06/17/yahoo-weather-gets-one-step-ahead-by-working-with-apple/
+link: >-
+  https://linwangge.wordpress.com/2013/06/17/yahoo-weather-gets-one-step-ahead-by-working-with-apple/
 slug: yahoo-weather-gets-one-step-ahead-by-working-with-apple
 title: Yahoo! Weather Gets One Step Ahead by Working with Apple
 wordpress_id: 1925
 categories:
-- Anything Apple
-- Design
-- iOS
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Anything Apple
+  - Design
+  - iOS
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- Apple
-- Flickr
-- iPhone
-- Weather
-- Yahoo
-- Yahoo weather
+  - Yahoo
+published: true
 ---
 
 It has been a month since I chose Yahoo! Weather app as my default weather app on my iPhone. I liked the UI style of the app, simple, information matter on the front and center and the pretty Flickr local scenery photos, all with good touch. After WWDC 2013, it turns out that this app fits right into the [new iOS design](http://linwangge.wordpress.com/2013/06/12/what-exactly-apple-did-with-ios-7/). Is Yahoo!'s designers THAT good? Or they can see into the future?
@@ -40,6 +37,3 @@ Since iOS default weather app actually use Yahoo weather, I think designers in 
 
 	
   * [Apple names Yahoo Weather and Evernote amongst its 2013 design award winners](http://www.itproportal.com/2013/06/16/apple-names-yahoo-weather-and-evernote-amongst-its-2013-design-award-winners/) (itproportal.com)
-
-
-
