@@ -1,30 +1,22 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-15 21:22:12+00:00
+date: 2013-01-15T21:22:12.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/15/apple-imessage-ui-breakdown-read-receipts/
+link: >-
+  https://linwangge.wordpress.com/2013/01/15/apple-imessage-ui-breakdown-read-receipts/
 slug: apple-imessage-ui-breakdown-read-receipts
 title: 'Apple iMessage UI Breakdown: Read Receipts'
 wordpress_id: 130
 categories:
-- Anything Apple
-- Design
-- iOS
-- Mac
-- UI/UX
+  - Anything Apple
+  - Design
+  - iOS
+  - Mac
+  - UI/UX
 tags:
-- Apple
-- Design Thinking
-- iMessage
-- iPhone
-- Mobile OS
-- Read Recipient
-- Text messaging
-- UI
-- User Experience
-- User interface
-- UX
+  - Apple
+published: true
 ---
 
 Finally got time to write something that I hold dear and near to: User Interface!
