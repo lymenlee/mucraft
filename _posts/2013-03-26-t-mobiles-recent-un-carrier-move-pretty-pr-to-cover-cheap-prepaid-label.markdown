@@ -1,23 +1,18 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-26 20:30:01+00:00
+date: 2013-03-26T20:30:01.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/26/t-mobiles-recent-un-carrier-move-pretty-pr-to-cover-cheap-prepaid-label/
+link: >-
+  https://linwangge.wordpress.com/2013/03/26/t-mobiles-recent-un-carrier-move-pretty-pr-to-cover-cheap-prepaid-label/
 slug: t-mobiles-recent-un-carrier-move-pretty-pr-to-cover-cheap-prepaid-label
-title: 'T-Mobile''s Recent ''Un-carrier'' Move: Pretty PR to Cover ''Cheap Prepaid''
-  Label?'
+title: 'T-Mobile''s Recent ''Un-carrier'' Move: Pretty PR to Cover ''Cheap Prepaid'' Label?'
 wordpress_id: 1850
 categories:
-- Tech Trends
+  - Tech Trends
 tags:
-- AT&amp;T
-- iPhone
-- iPhone 5
-- MetroPCS
-- Mobile phone
-- T-Mobile
-- Total Cost of Ownership
+  - T-Mobile
+published: true
 ---
 
 [![t-mobile-mytouch-4g-commercial.jpg](http://linwangge.files.wordpress.com/2013/03/t-mobile-mytouch-4g-commercial.jpg?w=560)](http://linwangge.files.wordpress.com/2013/03/t-mobile-mytouch-4g-commercial.jpg)
@@ -60,5 +55,3 @@ I have to say this is very well-played by T-Mobile’s PR team. How well or how
 
 	
   * [Prepaid or postpaid?: The fight for your cell phone dollars (Smartphones Unlocked)](http://newspaperfree.wordpress.com/2013/03/26/prepaid-or-postpaid-the-fight-for-your-cell-phone-dollars-smartphones-unlocked/) (newspaperfree.wordpress.com)
-
-
