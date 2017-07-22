@@ -1,26 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-20 22:27:12+00:00
+date: 2013-02-20T22:27:12.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/20/google-glasses-ui-evolution-makes-life-feel-like-playing-a-game/
+link: >-
+  https://linwangge.wordpress.com/2013/02/20/google-glasses-ui-evolution-makes-life-feel-like-playing-a-game/
 slug: google-glasses-ui-evolution-makes-life-feel-like-playing-a-game
 title: 'Google Glasses UI Evolution : Makes Life Feel Like Playing a Game'
 wordpress_id: 1113
 categories:
-- Design
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Design
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- Augment Reality
-- Google
-- Google Glasses
-- Project Glasses
-- Twitch.tv
-- UI
-- User Experience
-- User interface
+  - Google Glasses
+published: true
 ---
 
 Google's [first Project Glasses video](http://www.youtube.com/watch?v=9c6W4CCU9M4) stirred a lot of controversies because of its UI design gets in the way of people's normal life. You really can't use this gadgets in real life if the user interface is so prominent, in the middle of your view, and pop up all the time, like this:
@@ -66,5 +61,3 @@ It could even be dangerous when driving or biking. Yeah a map is good, but only 
 
 	
   * [Google offers glimpse of Project Glass UI](http://phandroid.com/2013/02/20/project-glass-ui/) (phandroid.com)
-
-
