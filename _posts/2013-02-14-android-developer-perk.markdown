@@ -1,26 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-14 17:03:49+00:00
+date: 2013-02-14T17:03:49.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/14/android-developer-perk/
+link: 'https://linwangge.wordpress.com/2013/02/14/android-developer-perk/'
 slug: android-developer-perk
 title: Android Developer 'Perk'?
 wordpress_id: 1006
 categories:
-- Customer Experience
-- Social Networks
-- Tech Trends
+  - Customer Experience
+  - Social Networks
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- Android
-- Android App
-- Creepy Line
-- Email address
-- Google
-- Google Play
-- Privacy
+  - Android
+published: true
 ---
 
 [![Play-Store](http://linwangge.files.wordpress.com/2013/02/play-store1.jpg)](http://linwangge.files.wordpress.com/2013/02/play-store1.jpg)
@@ -49,5 +44,3 @@ However, the impact of this privacy issue could be huge. People could get stalk
 
 	
   * [A purchase on Google Play may leak your email address to developers](http://www.ghacks.net/2013/02/13/a-purchase-on-google-play-leaks-your-email-address-to-developers/) (ghacks.net)
-
-
