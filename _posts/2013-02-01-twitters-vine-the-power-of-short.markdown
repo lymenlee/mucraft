@@ -1,26 +1,23 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-01 15:58:35+00:00
+date: 2013-02-01T15:58:35.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/01/twitters-vine-the-power-of-short/
+link: 'https://linwangge.wordpress.com/2013/02/01/twitters-vine-the-power-of-short/'
 slug: twitters-vine-the-power-of-short
 title: 'Twitter''s Vine: The Power of ''Short'''
 wordpress_id: 870
 categories:
-- Anything Apple
-- Customer Experience
-- Design
-- iOS
-- Social Networks
-- Tech Trends
-- UICraft
+  - Anything Apple
+  - Customer Experience
+  - Design
+  - iOS
+  - Social Networks
+  - Tech Trends
+  - UICraft
 tags:
-- Social network
-- Twitter
-- Video hosting service
-- video sharing
-- Vine
+  - Vine
+published: true
 ---
 
 [![vine_The-Power-Of-Short](http://linwangge.files.wordpress.com/2013/02/vine_the-power-of-short.png?w=560)](http://linwangge.files.wordpress.com/2013/02/vine_the-power-of-short.png)
@@ -56,5 +53,3 @@ Having said all these, I believe Vine definitely has the potential to be the kil
 
 	
   * [Six reasons why Vine is a killer news tool](http://pandodaily.com/2013/01/28/six-reasons-why-vine-is-a-killer-news-tool/) (pandodaily.com)
-
-
