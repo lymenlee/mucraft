@@ -1,23 +1,18 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-05-23 22:31:43+00:00
+date: 2013-05-23T22:31:43.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/05/23/xbox-one-from-hardcore-to-family-friendly-and-why-gamers-complain/
+link: >-
+  https://linwangge.wordpress.com/2013/05/23/xbox-one-from-hardcore-to-family-friendly-and-why-gamers-complain/
 slug: xbox-one-from-hardcore-to-family-friendly-and-why-gamers-complain
 title: 'Xbox One: From Hardcore to Family Friendly and Why Gamers Complain'
 wordpress_id: 1891
 categories:
-- Tech Trends
+  - Tech Trends
 tags:
-- Call of Duty
-- Gamer
-- iPhone
-- Microsoft
-- Netflix
-- Wii
-- Xbox
-- Xbox One
+  - Xbox One
+published: true
 ---
 
 [Xbox One: From Hardcore to Family Friendly and Why Gamers Complain](http://thenextweb.com/microsoft/2013/05/22/frustrated-with-the-xbox-one-thats-okay-because-microsoft-isnt-building-its-next-system-for-you/?fromcat=all)
