@@ -1,0 +1,15 @@
+---
+author: mountainwalker
+comments: true
+date: 2008-02-23 04:05:53+00:00
+layout: post
+link: https://linwangge.wordpress.com/2008/02/22/start/
+slug: start
+title: So It Started...
+wordpress_id: 3
+---
+
+Welcome to Tech Wave 2.0!
+This blog is created to share some of our great discussions one interesting and intriguing topics of our beloved mobile industry. Also some interesting write-ups/news I found online about the business.
+Going forward, expecting more original posts and quotes to come. Hope this will help those who also in this industry be more informed or resourceful.
+Stay tuned.
