@@ -1,28 +1,24 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-29 04:43:21+00:00
+date: 2013-01-29T04:43:21.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/28/ui-of-twitters-new-vine-app-subtle-evolutions/
+link: >-
+  https://linwangge.wordpress.com/2013/01/28/ui-of-twitters-new-vine-app-subtle-evolutions/
 slug: ui-of-twitters-new-vine-app-subtle-evolutions
 title: 'UI of Twitter''s new ''Vine'' app: Subtle Evolution'
 wordpress_id: 646
 categories:
-- Anything Apple
-- Design
-- iOS
-- Main
-- Social Networks
-- Tech Trends
-- UICraft
+  - Anything Apple
+  - Design
+  - iOS
+  - Main
+  - Social Networks
+  - Tech Trends
+  - UICraft
 tags:
-- Icon
-- instagram
-- Twittbot
-- Twitter
-- User interface
-- Video hosting service
-- Vine
+  - Vine
+published: true
 ---
 
 Recently Twitter released its new standalone short video sharing app ['Vine'](http://techcrunch.com/2013/01/24/vine-just-made-twitter-a-stronger-social-network/). It's début isn't without some [controversies](http://techcrunch.com/2013/01/28/apple-pulls-vine-from-app-stores-featured-section-after-porn-showed-up-in-editors-picks/), but overall it's a solid app with great potentials. All the dramas aside, I want to go ahead and do a bit of UI analysis on this hot social app, and see if we can find something interesting:
