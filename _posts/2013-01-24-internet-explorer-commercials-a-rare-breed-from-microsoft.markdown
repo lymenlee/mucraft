@@ -1,23 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-24 22:54:15+00:00
+date: 2013-01-24T22:54:15.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/24/internet-explorer-commercials-a-rare-breed-from-microsoft/
+link: >-
+  https://linwangge.wordpress.com/2013/01/24/internet-explorer-commercials-a-rare-breed-from-microsoft/
 slug: internet-explorer-commercials-a-rare-breed-from-microsoft
 title: 'Internet Explorer Commercials: A Rare Breed from Microsoft'
 wordpress_id: 607
 categories:
-- Design
-- Tech Trends
-- UI/UX
+  - Design
+  - Tech Trends
+  - UI/UX
 tags:
-- Advertisement
-- Commercials
-- Internet Explorer
-- marketing
-- Microsoft
-- Steve Ballmer
+  - Internet Explorer
+published: true
 ---
 
 [![Internet Explorer](http://linwangge.files.wordpress.com/2013/01/ui-version-of-ie-10.jpg)](http://linwangge.files.wordpress.com/2013/01/ui-version-of-ie-10.jpg)
