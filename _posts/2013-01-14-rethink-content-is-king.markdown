@@ -1,23 +1,18 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-14 21:26:18+00:00
+date: 2013-01-14T21:26:18.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/14/rethink-content-is-king/
+link: 'https://linwangge.wordpress.com/2013/01/14/rethink-content-is-king/'
 slug: rethink-content-is-king
 title: Rethink 'Content is King'
 wordpress_id: 124
 categories:
-- Customer Experience
-- Tech Trends
+  - Customer Experience
+  - Tech Trends
 tags:
-- Ad
-- Advertisement
-- Bill Gates
-- content consuming
-- content is king
-- content stragety
-- marketing
+  - content is king
+published: true
 ---
 
 [![content-is-king-seo](http://linwangge.files.wordpress.com/2013/01/content-is-king-seo.jpg)](http://linwangge.files.wordpress.com/2013/01/content-is-king-seo.jpg)Can't help but overheard a small discussion between two of my marketing colleagues. One is asserting that now it's still an era of 'Content is king', in that the company's website could be looking good, they might have twitter and Facebook accounts all set up as a new media outlet and even has a sound mobile strategy, but at the end of day, people still looking for content. I felt this is actually more complicated than it looks and worth some deep dive.
@@ -33,5 +28,3 @@ The phrase 'Content is king' is first introduced and widely discussed by Bill Ga
 So in my view, content is still the king, but instead of sit in his throne all day, he now needs to practice public speech, learn how to dress properly, hone his charisma, and give friendly audiences to more people. Because even though content is king, customer is god like Japanese likes to put it.
 
 Image: via [OracleDigital](http://www.oracledigital.com.au/consistent-content-is-king-with-seo/)
-
-
