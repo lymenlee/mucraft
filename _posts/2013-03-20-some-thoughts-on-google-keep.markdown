@@ -1,25 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-20 22:18:52+00:00
+date: 2013-03-20T22:18:52.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/20/some-thoughts-on-google-keep/
+link: 'https://linwangge.wordpress.com/2013/03/20/some-thoughts-on-google-keep/'
 slug: some-thoughts-on-google-keep
 title: Some thoughts on Google Keep
 wordpress_id: 1804
 categories:
-- Design
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Design
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- Evernote
-- Google
-- Google Keep
-- Google Reader
-- Notetaking
-- Social network
-- Web application
+  - Google
+published: true
 ---
 
 Google[ announced the new note-taking service Google Keep today. ](http://techcrunch.com/2013/03/20/googles-keep-note-taking-web-and-android-app-gets-its-official-public-launch/)
