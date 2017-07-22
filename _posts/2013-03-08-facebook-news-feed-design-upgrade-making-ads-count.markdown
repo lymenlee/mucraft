@@ -1,23 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-08 21:52:05+00:00
+date: 2013-03-08T21:52:05.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/08/facebook-news-feed-design-upgrade-making-ads-count/
+link: >-
+  https://linwangge.wordpress.com/2013/03/08/facebook-news-feed-design-upgrade-making-ads-count/
 slug: facebook-news-feed-design-upgrade-making-ads-count
 title: 'Facebook News Feed Design Upgrade: Making Ads Count'
 wordpress_id: 1404
 categories:
-- Design
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Design
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- Advertising
-- Facebook
-- News Feed
-- Social network
-- Timeline
+  - Facebook
+published: true
 ---
 
 Facebook recently [released their new design of the 'News Feed'](http://www.theverge.com/2013/3/7/4075548/facebook-redesigns-news-feed-with-multiple-feeds). From the announcement, even though they didn't mention a word about ads, I still smelt it. All of the design changes in a large part are to make Ads count. Here's why:
