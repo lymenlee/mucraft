@@ -1,27 +1,22 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-22 22:30:46+00:00
+date: 2013-01-22T22:30:46.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/22/skeuomorphism-vs-flat-design-some-inspirations/
+link: >-
+  https://linwangge.wordpress.com/2013/01/22/skeuomorphism-vs-flat-design-some-inspirations/
 slug: skeuomorphism-vs-flat-design-some-inspirations
 title: 'Skeuomorphism vs. Flat Design: Some Inspirations'
 wordpress_id: 582
 categories:
-- Anything Apple
-- Design
-- iOS
-- Tech Trends
-- UICraft
+  - Anything Apple
+  - Design
+  - iOS
+  - Tech Trends
+  - UICraft
 tags:
-- Apple
-- Arts
-- Flat Design
-- Graphics
-- Metro UI
-- Modern UI
-- Skeuomorphism
-- User interface
+  - Flat Design
+published: true
 ---
 
 The design industry is rethinking Skeuomorphism lately. [Whether flat design is a more appealing approach or Skeuomorphism is still  in its prime time](http://www.macworld.com/article/2023604/apple-and-the-future-of-design.html).I was reading all those arguments and think to myself: Maybe they can work hand-in-hand instead of mutual exclusive? So I went out and did some inspirations search. The results are encouraging, not exactly proved my point but still offer a possible direction, here's what I found:
@@ -67,5 +62,3 @@ Also, Clear's static visual design is flat and simple, its interaction animation
 **To Sum it up...**
 
 Skeuomorphism and Flat design are all but two different design languages. Each has its strength and limitation, and will fit into different scenarios to solve design problems. There's no absolute right or wrong about using them, it's just how well it fits into the problem you want to solve and the audience you want to please. And be creative! The above examples proves that you can use them both and still yielding fascinating results!
-
-
