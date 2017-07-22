@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+comments: true
 title: First post!
 date: '2017-07-15 22:59:55 -0400'
 categories: General

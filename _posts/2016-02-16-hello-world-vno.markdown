@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World - Vno
+comments: true
 date: 2016-02-16 15:32:24.000000000 +09:00
 ---
 
