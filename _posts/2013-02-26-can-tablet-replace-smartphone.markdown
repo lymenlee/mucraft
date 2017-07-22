@@ -1,24 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-26 00:56:50+00:00
+date: 2013-02-26T00:56:50.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/25/can-tablet-replace-smartphone/
+link: 'https://linwangge.wordpress.com/2013/02/25/can-tablet-replace-smartphone/'
 slug: can-tablet-replace-smartphone
 title: Can Tablet Replace Smartphone?
 wordpress_id: 1178
 categories:
-- Design
-- Tech Trends
+  - Design
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- Bluetooth
-- Mobile Device
-- Personal computer
-- Smartphone
-- Tablet
-- Tablet computer
+  - Tablet
+published: true
 ---
 
 [![windows-8-devices-640x353](http://linwangge.files.wordpress.com/2013/02/windows-8-devices-640x353.jpg?w=560)](http://linwangge.files.wordpress.com/2013/02/windows-8-devices-640x353.jpg)
@@ -82,5 +78,3 @@ Smartphone: 15 _♥_
 Tablet: 10 _♥_
 
 It's very likely that smartphone will still be our main mobile device for a while, until we can find a better way to carry tablet around and picking up incoming calls.
-
-
