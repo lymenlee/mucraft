@@ -1,28 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-11 22:03:34+00:00
+date: 2013-01-11T22:03:34.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/11/bmws-4g-lte-hotspot-idea-luxury-car-meet-cheap-technology/
+link: >-
+  https://linwangge.wordpress.com/2013/01/11/bmws-4g-lte-hotspot-idea-luxury-car-meet-cheap-technology/
 slug: bmws-4g-lte-hotspot-idea-luxury-car-meet-cheap-technology
 title: 'BMW''s 4G LTE Hotspot Idea: Luxury car meet cheap technology'
 wordpress_id: 118
 categories:
-- Design
-- Tech Trends
-- UI/UX
+  - Design
+  - Tech Trends
+  - UI/UX
 tags:
-- 3GPP Long Term Evolution
-- 4G
-- BMW
-- Driving
-- Driving Experience
-- LTE
-- MiFi
-- User Experience
-- Wi-Fi
-- WiFi
-- WiFi hotspot
+  - BMW
+published: true
 ---
 
 [
