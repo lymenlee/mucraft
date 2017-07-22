@@ -1,27 +1,24 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-29 15:29:24+00:00
+date: 2013-01-29T15:29:24.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/29/new-vision-from-marissa-mayer-of-yahoo/
+link: >-
+  https://linwangge.wordpress.com/2013/01/29/new-vision-from-marissa-mayer-of-yahoo/
 slug: new-vision-from-marissa-mayer-of-yahoo
 title: New Vision from Marissa Mayer of Yahoo
 wordpress_id: 649
 categories:
-- Customer Experience
-- Design
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Customer Experience
+  - Design
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 post_format:
-- Link
+  - Link
 tags:
-- Facebook
-- Google
-- Marissa Mayer
-- Social network
-- World Wide Web
-- Yahoo
+  - Marissa Mayer
+published: true
 ---
 
 [New Vision from Marissa Mayer of Yahoo](http://www.bloomberg.com/news/2013-01-25/yahoo-s-mayer-sees-future-in-personalized-mobile-web.html)
@@ -33,5 +30,3 @@ As I mentioned in [my earlier post](http://linwangge.wordpress.com/2013/01/19/wi
 'So to sum it up, if social network companies focuses more on knowing their users better , then providing valuable suggestions and helping user reduce the noise level, it will be a win-win to everybody. Users will have a higher quality of information flow, get ideas and suggestions that relevant to their needs and taste. Social network companies will make better use of their ‘raw social data’ and get more engaging subscribers (that willing to share more about themselves). And even advertises will have an easier time targeting their audience because of the better profiling from social networks.'
 
 I believe Yahoo's new CEO gets it, and better even she has the power to make it happen. It's refreshing to see someone with an unique perspective, yet it's always easier said than done, so it all boils down to how well Yahoo can executes its witty strategy. We'll keep watching.
-
-
