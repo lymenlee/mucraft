@@ -1,28 +1,23 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-05 20:48:41+00:00
+date: 2013-03-05T20:48:41.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/05/uicraft-rethinking-touch-screen-on-laptop/
+link: >-
+  https://linwangge.wordpress.com/2013/03/05/uicraft-rethinking-touch-screen-on-laptop/
 slug: uicraft-rethinking-touch-screen-on-laptop
 title: 'UICraft: Rethinking Touch Screen on Laptop'
 wordpress_id: 1368
 categories:
-- Anything Apple
-- Design
-- iOS
-- Mac
-- Tech Trends
-- UICraft
+  - Anything Apple
+  - Design
+  - iOS
+  - Mac
+  - Tech Trends
+  - UICraft
 tags:
-- Google
-- Laptop
-- Microsoft
-- Operating system
-- Tablet computer
-- Touchscreen
-- User interface
-- Windows 8
+  - Touchscreen
+published: true
 ---
 
 Recently Microsoft and Google all release their own laptop with a touch screen. People start to speculate that this is the next big thing in tech industry. As a big fan of product design, user interface and touch technology, this is a very intriguing topic for me, so I went ahead and did some research. Here is what I found. Again, quick takeaways if you don’t have time for a deep dive now.
@@ -145,5 +140,3 @@ How the innovation landscape will shape up around laptop touch screen is yet to 
 
 	
   * [Why Would I Want a Touch Screen PC?](http://lifehacker.com/5978694/why-would-i-want-a-touch-screen-pc) (lifehacker.com)
-
-
