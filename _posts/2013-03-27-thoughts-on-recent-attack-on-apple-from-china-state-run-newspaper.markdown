@@ -1,21 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-27 20:06:26+00:00
+date: 2013-03-27T20:06:26.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/27/thoughts-on-recent-attack-on-apple-from-china-state-run-newspaper/
+link: >-
+  https://linwangge.wordpress.com/2013/03/27/thoughts-on-recent-attack-on-apple-from-china-state-run-newspaper/
 slug: thoughts-on-recent-attack-on-apple-from-china-state-run-newspaper
 title: Thoughts On Recent Attack on Apple from China State-Run Newspaper
 wordpress_id: 1855
 categories:
-- Anything Apple
-- Customer Experience
-- Tech Trends
+  - Anything Apple
+  - Customer Experience
+  - Tech Trends
 tags:
-- Apple
-- China
-- Chinese Internet users
-- iPhone
+  - Apple
+published: true
 ---
 
 [![apple-china-store-pudong](http://linwangge.files.wordpress.com/2013/03/apple-china-store-pudong.jpg?w=560)](http://linwangge.files.wordpress.com/2013/03/apple-china-store-pudong.jpg)
@@ -38,5 +37,3 @@ Read more at [http://macdailynews.com/2013/03/26/china-slams-apples-empty-and-s
 
 	
   * [Chinese frown upon media attack on Apple](http://worlditnews24.wordpress.com/2013/03/27/chinese-frown-upon-media-attack-on-apple/) (worlditnews24.wordpress.com)
-
-
