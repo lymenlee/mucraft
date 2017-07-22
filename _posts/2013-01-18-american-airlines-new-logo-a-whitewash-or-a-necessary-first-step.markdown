@@ -1,20 +1,18 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-18 19:53:40+00:00
+date: 2013-01-18T19:53:40.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/18/american-airlines-new-logo-a-whitewash-or-a-necessary-first-step/
+link: >-
+  https://linwangge.wordpress.com/2013/01/18/american-airlines-new-logo-a-whitewash-or-a-necessary-first-step/
 slug: american-airlines-new-logo-a-whitewash-or-a-necessary-first-step
 title: 'American Airline''s New Logo: A step on the wrong direction?'
 wordpress_id: 535
 categories:
-- Customer Experience
+  - Customer Experience
 tags:
-- American Airline
-- Brand
-- Livery
-- Logo
-- Manipulation Fatigue
+  - American Airline
+published: true
 ---
 
 American [announced](http://www.cbsnews.com/8301-505123_162-57564520/american-airlines-introduces-new-logo/) this week that they will have a brand new design of logo, livery and other paint jobs. The design itself is actually pretty good, modern and stylish. But after reading the news, my initial feeling isn't excitement, I actually feel angry.
