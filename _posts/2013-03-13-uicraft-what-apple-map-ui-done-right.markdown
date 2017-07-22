@@ -1,21 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-13 22:39:19+00:00
+date: 2013-03-13T22:39:19.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/13/uicraft-what-apple-map-ui-done-right/
+link: >-
+  https://linwangge.wordpress.com/2013/03/13/uicraft-what-apple-map-ui-done-right/
 slug: uicraft-what-apple-map-ui-done-right
 title: 'UICraft: What Apple Map UI Done Right'
 wordpress_id: 1772
 categories:
-- Anything Apple
-- Design
-- iOS
-- UICraft
+  - Anything Apple
+  - Design
+  - iOS
+  - UICraft
 tags:
-- Apple
-- Google
-- Google Maps
+  - Apple Map
+published: true
 ---
 
 A lot of people hate Apple Map. Bad directions, corrupted map data, police warnings, you name it. Yet most of the criticizes are pointing toward the back-end map data, not to the map user interface and user experience. Actually, no one seems to have talked about it. After a closer look, I found that Apple Map UI did one thing or two right:
@@ -143,5 +143,3 @@ Adding all these together, I found Apple Map still holds its high standard when 
 
 	
   * [Apple Maps Beats Google Maps and Waze in Navigation Test](http://www.iClarified.com/28052/apple-maps-beats-google-maps-and-waze-in-navigation-test) (iClarified.com)
-
-
