@@ -1,28 +1,22 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-13 04:31:59+00:00
+date: 2013-02-13T04:31:59.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/12/mailbox-apps-ui/
+link: 'https://linwangge.wordpress.com/2013/02/12/mailbox-apps-ui/'
 slug: mailbox-apps-ui
 title: 'Mailbox App''s Reservation System UI: Progress Indicator At Its Best'
 wordpress_id: 937
 categories:
-- Anything Apple
-- Design
-- iOS
-- Tech Trends
-- UI/UX
-- UICraft
+  - Anything Apple
+  - Design
+  - iOS
+  - Tech Trends
+  - UI/UX
+  - UICraft
 tags:
-- App Store
-- Email client
-- Getting Things Done
-- iPhone
-- Mailbox
-- Mailbox App
-- Orchestra
-- User interface
+  - Mailbox App
+published: true
 ---
 
 As a fan of GTD(Getting Things Done), a sufferer of email-overload and a User Interface enthusiast, when my friend [Drew Wilken](http://drewwilken.wordpress.com/) informed me of this new 'email killer app', I dropped everything on my hands and hit the 'App Store' icon on my iPhone5, and downloaded the highly hyped app. I gotta have it! One minute and 37 seconds later, I hit a cold hard wall looks like this:
@@ -95,5 +89,3 @@ Edit: It seems good design tends to go viral. Hot calendar app [Tempo](http://ne
 
 	
   * [The Mailbox Rollout: Perfection in Digital Era Marketing](http://markpalfreeman.wordpress.com/2013/02/09/the-mailbox-rollout-perfection-in-digital-era-marketing/) (markpalfreeman.wordpress.com)
-
-
