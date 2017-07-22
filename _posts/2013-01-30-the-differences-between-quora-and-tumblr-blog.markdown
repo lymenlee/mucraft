@@ -1,22 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-30 22:04:21+00:00
+date: 2013-01-30T22:04:21.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/30/the-differences-between-quora-and-tumblr-blog/
+link: >-
+  https://linwangge.wordpress.com/2013/01/30/the-differences-between-quora-and-tumblr-blog/
 slug: the-differences-between-quora-and-tumblr-blog
 title: The differences between Quora and Tumblr blog
 wordpress_id: 685
 categories:
-- Social Networks
-- Tech Trends
+  - Social Networks
+  - Tech Trends
 tags:
-- Blog
-- q&amp;a
-- Quora
-- Social media
-- Tumblr
-- Twitter
+  - Quora
+published: true
 ---
 
 [![Quora-vs-Tumblr](http://linwangge.files.wordpress.com/2013/01/quora-vs-tumblr.png?w=300)](http://linwangge.files.wordpress.com/2013/01/quora-vs-tumblr.png)
@@ -54,5 +51,3 @@ So to answer your question on where Quora adds value in terms of blogging, I thi
 
 	
   * [Quora Inverts Itself by Offering a Blogging Tool](http://allthingsd.com/20130123/quora-inverts-itself-by-offering-a-blogging-tool/) (allthingsd.com)
-
-
