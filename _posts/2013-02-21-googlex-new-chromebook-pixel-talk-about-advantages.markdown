@@ -1,24 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-21 22:54:57+00:00
+date: 2013-02-21T22:54:57.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/21/googlex-new-chromebook-pixel-talk-about-advantages/
+link: >-
+  https://linwangge.wordpress.com/2013/02/21/googlex-new-chromebook-pixel-talk-about-advantages/
 slug: googlex-new-chromebook-pixel-talk-about-advantages
 title: 'Google''s New Chromebook Pixel: Talk About Advantages'
 wordpress_id: 1127
 categories:
-- Social Networks
-- Tech Trends
+  - Social Networks
+  - Tech Trends
 tags:
-- Chromebook
-- Google
-- Google Chrome
-- Macbook Air
-- Macbook Pro
-- Pixel
-- Retina Display
-- Starbucks
+  - Chromebook
+published: true
 ---
 
 There are many advantages for the new Pixel, but here are the obvious...
@@ -196,5 +191,3 @@ Don't listen to the nay-sayers, they are just jealous!
 
 	
   * [Every Reason Not to Buy the Google Chromebook Pixel](http://gizmodo.com/5986031/every-reason-not-to-buy-the-google-chromebook-pixel) (gizmodo.com)
-
-
