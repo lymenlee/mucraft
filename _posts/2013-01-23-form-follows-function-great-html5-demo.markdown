@@ -1,24 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-23 16:58:53+00:00
+date: 2013-01-23T16:58:53.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/23/form-follows-function-great-html5-demo/
+link: >-
+  https://linwangge.wordpress.com/2013/01/23/form-follows-function-great-html5-demo/
 slug: form-follows-function-great-html5-demo
 title: 'Form Follows Function: Great HTML5 Demo'
 wordpress_id: 593
 categories:
-- Design
-- Tech Trends
-- UI/UX
+  - Design
+  - Tech Trends
+  - UI/UX
 tags:
-- Cascading Style Sheets
-- Form Follows Function
-- HTML
-- HTML5
-- Screensaver
-- User Experience
-- Web Design
+  - Form Follows Function
+published: true
 ---
 
 Came across this gorgeous demo site for what HTML5 can do. The interaction and effect are amazing and the minimalism design helps too, highly recommend, link [here](http://fff.cmiscm.com/#!/main).
@@ -93,6 +89,3 @@ Raining Man. It works almost like a James Bond movie opening.
 
 
 My language pales before the real thing, so [go check it out](http://fff.cmiscm.com/#!/main)!
-
-
-
