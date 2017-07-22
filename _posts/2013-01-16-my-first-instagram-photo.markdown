@@ -1,21 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-16 23:47:19+00:00
+date: 2013-01-16T23:47:19.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/16/my-first-instagram-photo/
+link: 'https://linwangge.wordpress.com/2013/01/16/my-first-instagram-photo/'
 slug: my-first-instagram-photo
 title: My love and lost with Instagram
 wordpress_id: 152
 categories:
-- Main
+  - Main
 post_format:
-- Image
+  - Image
 tags:
-- instagram
-- photo
-- photography
-- Sunset
+  - Instagram
+published: true
 ---
 
 ![My first Instagram photo](http://linwangge.files.wordpress.com/2013/01/2010-11-04_1288912265.jpg)
@@ -32,6 +30,3 @@ So I quit Instagram and several months later only found out that more people are
 
 
 Image:  Most liked photo on my Instagram
-
-
-
