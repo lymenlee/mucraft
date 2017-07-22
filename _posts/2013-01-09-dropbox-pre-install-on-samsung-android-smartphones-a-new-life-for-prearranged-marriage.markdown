@@ -13,16 +13,7 @@ categories:
 - iOS
 - Tech Trends
 tags:
-- Apple
-- Cloud
-- Cloud storage
 - Dropbox
-- Free storage
-- iPhone
-- Mobile Service
-- preload
-- Samsung
-- Samsung Galaxy Note
 ---
 
 [![Dropbox](http://linwangge.files.wordpress.com/2013/01/dropbox.png)](http://linwangge.files.wordpress.com/2013/01/dropbox.png)
