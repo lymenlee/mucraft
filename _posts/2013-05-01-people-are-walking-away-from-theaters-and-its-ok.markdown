@@ -1,22 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-05-01 19:26:58+00:00
+date: 2013-05-01T19:26:58.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/05/01/people-are-walking-away-from-theaters-and-its-ok/
+link: >-
+  https://linwangge.wordpress.com/2013/05/01/people-are-walking-away-from-theaters-and-its-ok/
 slug: people-are-walking-away-from-theaters-and-its-ok
 title: People Are Walking Away from Theaters and It's OK
 wordpress_id: 1877
 categories:
-- Customer Experience
-- Tech Trends
+  - Customer Experience
+  - Tech Trends
 tags:
-- Hulu
-- movie
-- Netflix
-- theater
-- Vimeo
-- Youtube
+  - Netflix
+published: true
 ---
 
 [![theatre-seats](http://linwangge.files.wordpress.com/2013/05/theatre-seats.jpg?w=560)](http://linwangge.files.wordpress.com/2013/05/theatre-seats.jpg)
