@@ -1,23 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-07 17:02:20+00:00
+date: 2013-03-07T17:02:20.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/07/new-path-3-0-new-path-to-monetization/
+link: >-
+  https://linwangge.wordpress.com/2013/03/07/new-path-3-0-new-path-to-monetization/
 slug: new-path-3-0-new-path-to-monetization
-title: New Path 3.0, New Path to Monetization
+title: 'New Path 3.0, New Path to Monetization'
 wordpress_id: 1400
 categories:
-- Design
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Design
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- Dave Morin
-- New Path
-- Path
-- Path 3.0
-- Subscription business model
+  - Path
+published: true
 ---
 
 Path today [announced Path 3.0](http://blog.path.com/post/44744024724/a-brand-new-language-introducing-path-3-with-private), featuring a much-anticipated private message functionality and a pretty little in-app ‘Shop’.
@@ -88,5 +86,3 @@ Path has always been my favorite social network app. Its polished design, smooth
 
 	
   * [Path rolls out 3.0 with private messaging and a sticker shop](http://www.oddonion.com/2013/03/06/path-rolls-out-3-0-with-private-messaging-and-a-sticker-shop/) (oddonion.com)
-
-
