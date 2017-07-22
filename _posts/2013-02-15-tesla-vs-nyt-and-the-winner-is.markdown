@@ -1,26 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-15 22:49:45+00:00
+date: 2013-02-15T22:49:45.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/15/tesla-vs-nyt-and-the-winner-is/
+link: 'https://linwangge.wordpress.com/2013/02/15/tesla-vs-nyt-and-the-winner-is/'
 slug: tesla-vs-nyt-and-the-winner-is
 title: 'Tesla vs NYT: And the Winner is ... '
 wordpress_id: 1036
 categories:
-- Social Networks
-- Tech Trends
+  - Social Networks
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- Electric car
-- Elon Musk
-- Model S
-- New York Times
-- NYT
-- Tesla
-- Tesla Model S
-- Tesla Motors
+  - Tesla
+published: true
 ---
 
 [[![tesla-vs-nyt](http://linwangge.files.wordpress.com/2013/02/tesla-vs-nyt.gif)](http://linwangge.files.wordpress.com/2013/02/tesla-vs-nyt.gif)](http://paidcontent.org/2013/02/15/tesla-the-new-york-times-and-the-levelling-of-the-media-playing-field/?go_commented=1#comment-200070)
