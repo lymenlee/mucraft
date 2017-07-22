@@ -1,23 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-11 16:45:54+00:00
+date: 2013-03-11T16:45:54.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/11/eye-tracking-smartphone-ui-yes-and-no/
+link: >-
+  https://linwangge.wordpress.com/2013/03/11/eye-tracking-smartphone-ui-yes-and-no/
 slug: eye-tracking-smartphone-ui-yes-and-no
 title: 'Eye-Tracking Smartphone UI: Yes and No'
 wordpress_id: 1740
 categories:
-- Design
-- Tech Trends
-- UI/UX
+  - Design
+  - Tech Trends
+  - UI/UX
 tags:
-- Eye tracking
-- Google
-- Samsung
-- Samsung Galaxy S
-- Smartphone
-- User interface
+  - Eye tracking
+published: true
 ---
 
 Came across this article ['The Implications Of The Interface That Watches You''](http://techcrunch.com/2013/03/10/the-implications-of-the-interface-that-watches-you/) today. Eye-tracking as a new way of user interaction is intriguing, but after some thoughts, I think it's very limiting:
@@ -53,5 +50,3 @@ Since camera has become so ubiquitous now, technologies like facial recognizing
 
 	
   * [Samsung Galaxy S IV to scroll on-screen content based on eye movement?](http://www.phonearena.com/news/Samsung-Galaxy-S-IV-to-scroll-on-screen-content-based-on-eye-movement_id40461) (phonearena.com)
-
-
