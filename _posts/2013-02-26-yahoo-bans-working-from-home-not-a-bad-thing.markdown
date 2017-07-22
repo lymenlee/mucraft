@@ -1,21 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-26 23:35:39+00:00
+date: 2013-02-26T23:35:39.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/26/yahoo-bans-working-from-home-not-a-bad-thing/
+link: >-
+  https://linwangge.wordpress.com/2013/02/26/yahoo-bans-working-from-home-not-a-bad-thing/
 slug: yahoo-bans-working-from-home-not-a-bad-thing
 title: Yahoo! Bans 'Working from Home' Not a Bad Thing
 wordpress_id: 1236
 categories:
-- Social Networks
-- Tech Trends
+  - Social Networks
+  - Tech Trends
 tags:
-- Marissa Mayer
-- Quora
-- Telecommuting
-- WFH
-- Yahoo
+  - Marissa Mayer
+published: true
 ---
 
 [![marissa-mayer-7882_270x338](http://linwangge.files.wordpress.com/2013/02/marissa-mayer-7882_270x338.jpg)](http://linwangge.files.wordpress.com/2013/02/marissa-mayer-7882_270x338.jpg)Yahoo recently announced that 'Working From Home' is[ no longer allowed ](http://money.cnn.com/2013/02/25/technology/yahoo-work-from-home/?hpt=hp_t1)for its several hundreds employees. Many people are outrageous. I read a lot of angry comments on all the big tech medias. Yet interestingly, when I was browsing Quora, I stumbled upon this question: _[What has been the internal reaction at Yahoo to Marissa Mayer's no work from home policy?](http://www.quora.com/Yahoo/What-has-been-the-internal-reaction-at-Yahoo-to-Marissa-Mayers-no-work-from-home-policy) _More interestingly, the top upvoted answer is from a current Yahoo employee, his answer, and I quote here, is:
@@ -56,5 +54,3 @@ I have to say it seems that good things are happening within the then Internet g
 
 	
   * ['A giant leap backward': Yahoo boss Marissa Mayer under fire for banning employees from working from home](http://business.financialpost.com/2013/02/26/a-giant-leap-backward-marissa-mayer-under-fire-for-banning-employees-from-working-from-home/) (business.financialpost.com)
-
-
