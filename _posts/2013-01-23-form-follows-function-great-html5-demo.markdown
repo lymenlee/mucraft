@@ -13,7 +13,7 @@ categories:
   - Tech Trends
   - UI/UX
 tags:
-  - Form Follows Function
+  - HTML5
 published: true
 ---
 
