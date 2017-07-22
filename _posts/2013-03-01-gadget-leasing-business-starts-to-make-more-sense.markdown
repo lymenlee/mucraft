@@ -1,20 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-01 17:54:20+00:00
+date: 2013-03-01T17:54:20.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/01/gadget-leasing-business-starts-to-make-more-sense/
+link: >-
+  https://linwangge.wordpress.com/2013/03/01/gadget-leasing-business-starts-to-make-more-sense/
 slug: gadget-leasing-business-starts-to-make-more-sense
 title: Gadget Leasing Business Starts to Make More Sense
 wordpress_id: 1324
 categories:
-- Anything Apple
-- Tech Trends
+  - Anything Apple
+  - Tech Trends
 tags:
-- Gadget
-- IPad
-- iPad Mini
-- Leasing
+  - Gadget Leasing
+published: true
 ---
 
 [![Leasing-over-owning](http://linwangge.files.wordpress.com/2013/03/leasing-over-owning.png)](http://linwangge.files.wordpress.com/2013/03/leasing-over-owning.png)
@@ -46,19 +45,3 @@ This applies to leasing also. Leasing service providers can load the most popula
 
 
 What do you think of gadget leasing? Will it be the next big thing?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
