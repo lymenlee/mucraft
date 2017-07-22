@@ -1,20 +1,17 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-30 15:16:35+00:00
+date: 2013-01-30T15:16:35.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/30/microsoft-to-be-or-not-to-be/
+link: 'https://linwangge.wordpress.com/2013/01/30/microsoft-to-be-or-not-to-be/'
 slug: microsoft-to-be-or-not-to-be
 title: 'Microsoft: To be or not to be'
 wordpress_id: 680
 post_format:
-- Link
+  - Link
 tags:
-- Microsoft
-- Office
-- Tech
-- TechCrunch
-- Windows 8
+  - Microsoft
+published: true
 ---
 
 [Microsoft: To be or not to be](http://techcrunch.com/2013/01/30/the-windows-first-mobile-strategy-for-microsoft-office-2013-is-not-working/)
