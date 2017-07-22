@@ -1,31 +1,24 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-19 20:58:32+00:00
+date: 2013-02-19T20:58:32.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/19/fujitsus-senior-smartphone-debut-a-falling-leaf-a-coming-fall/
+link: >-
+  https://linwangge.wordpress.com/2013/02/19/fujitsus-senior-smartphone-debut-a-falling-leaf-a-coming-fall/
 slug: fujitsus-senior-smartphone-debut-a-falling-leaf-a-coming-fall
 title: 'Fujitsu''s Senior Smartphone Debut : A Falling Leaf, A Coming Fall '
 wordpress_id: 1045
 categories:
-- Anything Apple
-- Design
-- iOS
-- Tech Trends
-- UI/UX
+  - Anything Apple
+  - Design
+  - iOS
+  - Tech Trends
+  - UI/UX
 post_format:
-- Link
+  - Link
 tags:
-- Android
-- Apple
-- France Télécom
-- Fujitsu
-- iPhone
-- Mac OS
-- Senior Phone
-- Smartphone
-- User Experience
-- User interface
+  - iPhone
+published: true
 ---
 
 [![stylistic_s01_front_fr](http://linwangge.files.wordpress.com/2013/02/stylistic_s01_front_fr.png)](http://linwangge.files.wordpress.com/2013/02/stylistic_s01_front_fr.png)Fujitsu recently launched its first Android based smartphone with France Telecom. I know there's nothing 'exciting' to blog about, but there're some serious implications from it, just like people can tell the fall is coming from the falling of a leaf. 
@@ -57,5 +50,3 @@ All in all, a move to make dedicated device for older guys is always welcomed, a
 
 	
   * [Orange to offer new Fujitsu Stylistic S01 phone for older people](http://www.slashgear.com/orange-to-offer-new-fujitsu-stylistic-s01-phone-for-older-people-19269912/) (slashgear.com)
-
-
