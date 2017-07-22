@@ -1,24 +1,20 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-14 20:57:49+00:00
+date: 2013-03-14T20:57:49.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/14/uicraft-zites-new-rating-ui/
+link: 'https://linwangge.wordpress.com/2013/03/14/uicraft-zites-new-rating-ui/'
 slug: uicraft-zites-new-rating-ui
 title: 'UICraft: Zite''s New Rating UI'
 wordpress_id: 1779
 categories:
-- Design
-- iOS
-- Social Networks
-- UICraft
+  - Design
+  - iOS
+  - Social Networks
+  - UICraft
 tags:
-- Content Provider
-- Content Rating
-- UI
-- User Experience
-- User interface
-- Zite
+  - Zite
+published: true
 ---
 
 [Zite](http://zite.com/) is a pretty awesome self-learning, self-evolving intelligent specie(app) in the app universe. He feeds you with content gathered from Internet and devour your rating (Like/Dislike) so he can evolve into a clone of your news taste.  The more rating you give him, the faster and stronger he'll evolve, and you'll be fed with better quality universe essence (selected content).
