@@ -11,21 +11,7 @@ categories:
 - Tech Trends
 - UI/UX
 tags:
-- Android
-- Apple
-- Google
-- Metro UI
-- Microsoft
-- Mobile
-- Mobile Device
-- Mobile OS
-- Modern UI
 - Nokia
-- Samsung
-- Tech
-- UI
-- UX
-- Wireless
 ---
 
 [![nokia-lumia-510](http://linwangge.files.wordpress.com/2013/01/nokia-lumia-510.png)](http://linwangge.files.wordpress.com/2013/01/nokia-lumia-510.png)
