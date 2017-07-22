@@ -1,21 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-06 16:45:33+00:00
+date: 2013-03-06T16:45:33.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/06/kinect-on-laptop/
+link: 'https://linwangge.wordpress.com/2013/03/06/kinect-on-laptop/'
 slug: kinect-on-laptop
 title: Kinect On Laptop?
 wordpress_id: 1382
 categories:
-- Design
-- Tech Trends
-- UI/UX
+  - Design
+  - Tech Trends
+  - UI/UX
 tags:
-- Kinect
-- Microsoft
-- Xbox
-- Xbox Kinect
+  - Kinect
+published: true
 ---
 
 The Verge today[ has a video showcasing Microsoft's new progress in bringing Kinect to laptop/desktop as a new interaction model. ](http://www.theverge.com/2013/3/6/4069598/kinect-for-windows-hand-detection-hands-on)
@@ -39,5 +37,3 @@ What do you think?
 
 	
   * [Microsoft shows displays with built-in Kinect, predicts future laptop integration](http://www.theverge.com/2013/3/5/4065872/kinect-built-into-displays-future-laptop-integration) (theverge.com)
-
-
