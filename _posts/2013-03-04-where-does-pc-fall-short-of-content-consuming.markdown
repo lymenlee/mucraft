@@ -1,22 +1,19 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-04 20:56:56+00:00
+date: 2013-03-04T20:56:56.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/04/where-does-pc-fall-short-of-content-consuming/
+link: >-
+  https://linwangge.wordpress.com/2013/03/04/where-does-pc-fall-short-of-content-consuming/
 slug: where-does-pc-fall-short-of-content-consuming
 title: Where Does PC Fall Short of Content Consuming
 wordpress_id: 1349
 categories:
-- Design
-- Tech Trends
+  - Design
+  - Tech Trends
 tags:
-- content consuming
-- content creating
-- PC
-- Personal computer
-- Steve Jobs
-- Tablet
+  - content consuming
+published: true
 ---
 
 Here’s the major takeaways if you don’t have time to read the entire article:
@@ -77,5 +74,3 @@ As Steve Jobs has said, PC, just like trucks, used to be both your working and e
 
 	
   * [The shift from the PC to mobile and tablet is real: study](http://www.aaramshoppro.com/2013/02/the-shift-from-pc-to-mobile-and-tablet.html) (aaramshoppro.com)
-
-
