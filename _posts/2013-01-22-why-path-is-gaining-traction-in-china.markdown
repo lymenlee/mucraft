@@ -1,27 +1,22 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-01-22 05:09:47+00:00
+date: 2013-01-22T05:09:47.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/01/21/why-path-is-gaining-traction-in-china/
+link: >-
+  https://linwangge.wordpress.com/2013/01/21/why-path-is-gaining-traction-in-china/
 slug: why-path-is-gaining-traction-in-china
 title: Why Path Is Gaining Traction in China
 wordpress_id: 562
 categories:
-- Design
-- iOS
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Design
+  - iOS
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- App
-- China
-- Dave Morin
-- iPhone
-- marketing
-- Path
-- TechCrunch
-- Twitter
+  - Path
+published: true
 ---
 
 
