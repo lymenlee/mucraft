@@ -1,23 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-03-21 22:10:18+00:00
+date: 2013-03-21T22:10:18.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/03/21/apple-adopting-flat-design-yes-please/
+link: >-
+  https://linwangge.wordpress.com/2013/03/21/apple-adopting-flat-design-yes-please/
 slug: apple-adopting-flat-design-yes-please
-title: Apple Adopting Flat Design? Yes, Please !
+title: 'Apple Adopting Flat Design? Yes, Please !'
 wordpress_id: 1832
 categories:
-- Anything Apple
-- Design
-- iOS
-- UI/UX
+  - Anything Apple
+  - Design
+  - iOS
+  - UI/UX
 tags:
-- Apple
-- iPhone
-- Jonathan Ive
-- Microsoft
-- User interface
+  - Apple
+published: true
 ---
 
 
@@ -40,6 +38,3 @@ This is really long time coming!  It's about time we get some fresh air on iOS 
 
 	
   * [Jony Ive Pushing for 'Flat Design' in iOS 7 Amid Greater Hardware-Software Design Collaboration](http://www.macrumors.com/2013/03/21/jony-ive-pushing-for-flat-design-in-ios-7-amid-greater-hardware-software-design-collaboration/) (macrumors.com)
-
-
-
