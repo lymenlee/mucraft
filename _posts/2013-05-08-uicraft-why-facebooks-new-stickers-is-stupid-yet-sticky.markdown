@@ -1,26 +1,22 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-05-08 19:09:55+00:00
+date: 2013-05-08T19:09:55.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/05/08/uicraft-why-facebooks-new-stickers-is-stupid-yet-sticky/
+link: >-
+  https://linwangge.wordpress.com/2013/05/08/uicraft-why-facebooks-new-stickers-is-stupid-yet-sticky/
 slug: uicraft-why-facebooks-new-stickers-is-stupid-yet-sticky
 title: 'UICraft: Why Facebook''s New ''Stickers'' is Stupid Yet ''Sticky'' '
 wordpress_id: 1882
 categories:
-- Customer Experience
-- Design
-- Social Networks
-- Tech Trends
-- UI/UX
+  - Customer Experience
+  - Design
+  - Social Networks
+  - Tech Trends
+  - UI/UX
 tags:
-- Apple
-- Facebook
-- iOS
-- iPhone
-- Path (social network)
-- Steve Jobs
-- Sticker
+  - Facebook
+published: true
 ---
 
 Following [Path's step](http://linwangge.wordpress.com/2013/03/07/new-path-3-0-new-path-to-monetization/), Facebook recently introduced a sticker feature in their messaging experience. Stickers are a glorified version of 'emojis' which user can send to their friend while chatting to express emotions. It usually comes with a package of different expressions/emotions. All Facebook's current stickers are free to download, but the 'Free' tag could very quickly become '$0.99' like most Path stickers do.
@@ -48,5 +44,3 @@ I still remember when the first time Apple released iPhone and introduced multi-
 
 	
   * [Facebook's iOS Messenger app gets all sticky](http://soshitech.com/2013/05/07/facebooks-ios-messenger-app-gets-all-sticky/) (soshitech.com)
-
-
