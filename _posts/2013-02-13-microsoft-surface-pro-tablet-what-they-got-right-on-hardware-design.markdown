@@ -1,26 +1,21 @@
 ---
 author: mountainwalker
 comments: true
-date: 2013-02-13 22:33:51+00:00
+date: 2013-02-13T22:33:51.000Z
 layout: post
-link: https://linwangge.wordpress.com/2013/02/13/microsoft-surface-pro-tablet-what-they-got-right-on-hardware-design/
+link: >-
+  https://linwangge.wordpress.com/2013/02/13/microsoft-surface-pro-tablet-what-they-got-right-on-hardware-design/
 slug: microsoft-surface-pro-tablet-what-they-got-right-on-hardware-design
 title: 'Microsoft Surface Pro Tablet: What They Got Right on Hardware Design'
 wordpress_id: 947
 categories:
-- Design
-- Tech Trends
+  - Design
+  - Tech Trends
 post_format:
-- Link
+  - Link
 tags:
-- Apple
-- Hardware Design
-- iFixit
-- IPad
-- Microsoft
-- Microsoft Surface
-- Repairability
-- Windows
+  - Surface Pro
+published: true
 ---
 
 [![Surface_Win_8_Pro_128GB_RM1](http://linwangge.files.wordpress.com/2013/02/surface_win_8_pro_128gb_rm1.jpg)](http://linwangge.files.wordpress.com/2013/02/surface_win_8_pro_128gb_rm1.jpg)
@@ -63,5 +58,3 @@ What do you think of Surface Pro's design? Will it gain any traction on the mark
 
 	
   * [Five great things about the Microsoft Surface Pro](http://www.geek.com/articles/chips/five-great-things-about-the-microsoft-surface-pro-20130212/) (geek.com)
-
-
