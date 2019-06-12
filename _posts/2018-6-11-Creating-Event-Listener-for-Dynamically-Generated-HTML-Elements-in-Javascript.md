@@ -7,7 +7,6 @@ date: "2018-06-11 22:59:55 -0400"
 categories: Javascript
 ---
 
-## Create Event Listener for Dynamically Generated HTML Elements in Javascript
 
 For generated dynamic HTML elements, if you try to create an event listener in HTML for them, it usually won't work. The correct way is to create event listener in your Javascript file, like so:
 
